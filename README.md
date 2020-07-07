@@ -6,4 +6,4 @@
 
 本文網址：[https://github.com/zxstpa/wnel](https://github.com/zxstpa/wnel_big5)
 
-#### [**简体版**](https://github.com/zxstpa/wnel)
+#### [**简体版**](https://github.com/zxstpa/wnel_big5)
