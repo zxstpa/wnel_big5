@@ -156,4 +156,4 @@ tuidang@epochtimes.com
 
 配套視頻網址：[https://youtu.be/pPSYx_cgK-0](https://youtu.be/pPSYx_cgK-0)
 
-本文關聯網址：[https://github.com/zxstpa/wnel](https://github.com/zxstpa/wnel_big5)
+本文關聯網址：[https://github.com/zxstpa/wnel_big5](https://github.com/zxstpa/wnel_big5)
