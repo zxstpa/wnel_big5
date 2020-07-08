@@ -1,5 +1,5 @@
 # 電子書下載
-## [**《為你而來》等（EPUB、PDF版本，閱讀效果更好）**](https://github.com/zxstpa/wnel/files/4888666/wnel_big5.zip)
+## [**《為你而來》等（EPUB、PDF版本，閱讀效果更好）**](https://github.com/zxstpa/wnel/files/4891441/wnel_big5.zip)
 ## [**《九評共產黨》等**](https://github.com/zxstpa/wnel/files/4888669/9p_big5.zip)
 ## [**《東方女性》雜誌2002年第7期 - 01**](https://github.com/zxstpa/wnel/files/4816977/DFNX-2002.7-01.zip)
 ## [**《東方女性》雜誌2002年第7期 - 02**](https://github.com/zxstpa/wnel/files/4816982/DFNX-2002.7-02.zip)
