@@ -7,11 +7,11 @@
 
 # 翻牆（科學上網）軟件下載
 ## [**愛博電視（電腦版）**](https://github.com/zxstpa/wnel/files/4812881/Green_iPPOTV.zip)
-## [**翻牆瀏覽（安卓手機版）**](https://github.com/zxstpa/wnel/files/4964979/fq.zip)
 ## [**自由門（電腦版）**](https://github.com/zxstpa/wnel/files/4841991/fg786p.zip)
 ## [**自由門（安卓手機版）**](https://github.com/zxstpa/wnel/files/4812824/fgma42.zip)
 ## [**無界瀏覽（電腦版）**](https://github.com/zxstpa/wnel/files/4812782/u.zip)
 ## [**無界一點通（安卓手機版）**](https://github.com/zxstpa/wnel/files/4812890/um.zip)
+## [**翻牆瀏覽（安卓手機版）**](https://github.com/zxstpa/wnel/files/4964979/fq.zip)
 ## [**賽風（電腦和手機版）**](https://s3.amazonaws.com/psiphon/web/mjr4-p23r-puwl/zh/download.html#direct)
 
 # 其他下載
