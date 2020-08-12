@@ -44,7 +44,7 @@
 
 2000年代，活摘器官。
 
-2010年代，箝制言論，隱瞞役情，致武漢肺炎蔓延全球，虐殺全世界。
+2010年代，鉗制言論，隱瞞役情，致武漢肺炎在全球大爆發，虐殺全世界。
 
 上百年來，每個年代都有殺人，從未斷過，以上列舉的只是一點點。
 
@@ -111,7 +111,7 @@
 
 
 
-## [**天滅共產邪教，三退保平安！**](http://)
+## [**天滅共產邪教，快快三退保平安！**](http://)
 
 **用真名、化名、小名都可以，代人三退必須其本人同意才有效。**
 
@@ -154,6 +154,6 @@ tuidang@epochtimes.com
 -----
 本電子書有配套視頻，主要是提供書中涉及的證據，須科學上網觀看。
 
-配套視頻網址：[https://youtu.be/pPSYx_cgK-0](https://youtu.be/pPSYx_cgK-0)
+配套視頻網址：[https://youtu.be/laUcLJsVtT8](https://youtu.be/laUcLJsVtT8)
 
 本文關聯網址：[https://github.com/zxstpa/wnel_big5](https://github.com/zxstpa/wnel_big5)
