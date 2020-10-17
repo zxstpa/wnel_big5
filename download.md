@@ -1,7 +1,6 @@
 # 電子書下載
 ## [**《為你而來》等（EPUB、PDF版本）**](https://github.com/zxstpa/wnel/files/5061908/wnel_big5.zip)
 ## [**《九評共產黨》等**](https://github.com/zxstpa/wnel/files/5332497/9p_big5.zip)
-## [**共產黨在大饑荒期間出口糧食800萬噸**](https://github.com/zxstpa/wnel/files/5394786/800wd.zip)
 ## [**共產黨種鴉片相關1**](https://github.com/zxstpa/wnel/files/5394769/yapian1.zip)
 ## [**共產黨種鴉片相關2**](https://github.com/zxstpa/wnel/files/5394772/yapian2.zip)
 ## [**《東方女性》雜誌2002年第7期 - 01**](https://github.com/zxstpa/wnel/files/4816977/DFNX-2002.7-01.zip)
