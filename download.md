@@ -3,9 +3,8 @@
 ## [**《九評共產黨》等**](https://github.com/zxstpa/wnel/files/5332497/9p_big5.zip)
 ## [**共產黨種鴉片相關1**](https://github.com/zxstpa/wnel/files/5394769/yapian1.zip)
 ## [**共產黨種鴉片相關2**](https://github.com/zxstpa/wnel/files/5394772/yapian2.zip)
-## [**《東方女性》雜誌2002年第7期 - 01**](https://github.com/zxstpa/wnel/files/4816977/DFNX-2002.7-01.zip)
-## [**《東方女性》雜誌2002年第7期 - 02**](https://github.com/zxstpa/wnel/files/4816982/DFNX-2002.7-02.zip)
-## [**《東方女性》雜誌2002年第7期 - 03**](https://github.com/zxstpa/wnel/files/4817007/DFNX-2002.7-03.zip)
+## [**《東方女性》雜誌2002年第7期**](https://github.com/zxstpa/wnel/files/5394906/DFNX-2002-7.zip)
+
 
 # 翻牆（科學上網）軟件下載
 ## [**愛博電視（電腦版）**](https://github.com/zxstpa/wnel/files/4812881/Green_iPPOTV.zip)
