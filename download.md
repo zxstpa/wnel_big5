@@ -14,7 +14,6 @@
 ## [**自由門（安卓手機版）**](https://github.com/zxstpa/wnel/files/5394851/fgma43.zip)
 ## [**無界瀏覽（電腦版）**](https://github.com/zxstpa/wnel/files/4812782/u.zip)
 ## [**無界一點通（安卓手機版）**](https://github.com/zxstpa/wnel/files/4812890/um.zip)
-## [**翻牆瀏覽（安卓手機版）**](https://github.com/zxstpa/wnel/files/4964979/fq.zip)
 ## [**賽風（電腦和手機版）**](https://s3.amazonaws.com/psiphon/web/mjr4-p23r-puwl/zh/download.html#direct)
 
 # 其他下載
