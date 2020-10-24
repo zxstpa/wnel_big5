@@ -3,6 +3,7 @@
 ## [**《九評共產黨》等**](https://github.com/zxstpa/wnel/files/5332497/9p_big5.zip)
 ## [**共產黨種鴉片相關1**](https://github.com/zxstpa/wnel/files/5394769/yapian1.zip)
 ## [**共產黨種鴉片相關2**](https://github.com/zxstpa/wnel/files/5394772/yapian2.zip)
+## [**“抗美援朝”是大騙局**](https://github.com/zxstpa/wnel/files/5432831/hanzhan.zip)
 ## [**《東方女性》雜誌2002年第7期**](https://github.com/zxstpa/wnel/files/5394906/DFNX-2002-7.zip)
 
 
